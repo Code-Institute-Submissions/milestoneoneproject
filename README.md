@@ -22,9 +22,9 @@ This section is also where you would share links to any wireframes, mockups, dia
 
 In the links below you can see the mockups that I drew using the mockup tool “Balsamiq”:
 
-![bSentientlogo](./Images/bSentientlogo.png)
+[bSentientlogo](https://github.com/Lemoenskil/milestoneoneproject/blob/master/Assets/Mockups/Index.jpg)
 
- <img src="Index.png" alt="Index.html"/>
+ <img src="Index.jpg" alt="Index.html"/>
 
 
 ### User stories:
