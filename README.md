@@ -22,7 +22,7 @@ This section is also where you would share links to any wireframes, mockups, dia
 
 In the links below you can see the mockups that I drew using the mockup tool “Balsamiq”:
 
-[bSentientlogo](Images/bSentientlogo.png)
+![bSentientlogo](./Images/bSentientlogo.png)
 
  <img src="Index.png" alt="Index.html"/>
 
