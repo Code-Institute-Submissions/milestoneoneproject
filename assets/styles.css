@@ -1,10 +1,22 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto: 100,200,300,400,500,600,700|Anton: 300,400,500');
 
+
+/*---------------------------------------------------------------------Colours-------------*/
+.text-color-sextion {
+    color: #FDFFFC
+}
+.navbar{
+        background-color: #6B1B12;
+}
+
+/*---------------------------------------------------------------------Header--------------*/
 .logo {
     background: url("/assets/images/bSentientlogo.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
     display: block;
+    z-index: -1;
     min-height: 180px;
     transition: all 1s ease-in-out;
     -moz-transition: all 1s ease-in-out;
@@ -13,9 +25,63 @@
 }
 
 .navbar.navbar-1 .navbar-toggler-icon {
-background-image: url('https://mdbootstrap.com/img/svg/hamburger6.svg?color=000');
+    background-image: url('https://mdbootstrap.com/img/svg/hamburger6.svg?color=000');
 }
-.navbar{
+
+.navbar {
     padding: 0;
     margin: 0;
 }
+
+
+/*---------------------------------------------------------------------Section--------------*/
+.container-fluid{
+    margin: 0;
+}
+
+.backround-image {
+    background: url("/assets/images/dreamstimeextralarge_134781260.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    filter: blur(8px);
+    -webkit-filter: blur(8px);
+    display: block;
+    min-height: 100%;
+    z-index: -1;
+    position: fixed;
+    transition: all 1s ease-in-out;
+    -moz-transition: all 1s ease-in-out;
+    -o-transition: all 1s ease-in-out;
+    -webkit-transition: all 1s ease-in-out;
+}
+
+
+
+.intro-block{
+    border: 10px solid #6B1B12;
+    border-radius: 50px;
+    text-align: center;
+    size: inherit;
+    position: fixed;
+    z-index: 2;
+    padding: 15px;
+    min-height: 360px;
+    margin-top: 10px;
+}
+
+.text-style-into-block{
+    font-family: 'Anton', sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+    margin: 10px;
+}
+
+/*---------------------------------------------------------------------MediaQ--------------*/
+
+@media(min-width: 600px){
+    .backround-image{
+        filter: brightness(80%);
+        -webkit-filter: brightness(80%);
+        }
+    }
