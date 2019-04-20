@@ -1,0 +1,21 @@
+
+.logo {
+    background: url("/assets/images/bSentientlogo.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: block;
+    min-height: 180px;
+    transition: all 1s ease-in-out;
+    -moz-transition: all 1s ease-in-out;
+    -o-transition: all 1s ease-in-out;
+    -webkit-transition: all 1s ease-in-out;
+}
+
+.navbar.navbar-1 .navbar-toggler-icon {
+background-image: url('https://mdbootstrap.com/img/svg/hamburger6.svg?color=000');
+}
+.navbar{
+    padding: 0;
+    margin: 0;
+}
