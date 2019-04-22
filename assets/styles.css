@@ -36,9 +36,7 @@
     font-weight: 300;
     font-size: 30px;
 }
-.align-right {
-    padding-left: 35px;
-}
+
 
 
 /*---------------------------------------------------------------------Header--------------*/
@@ -68,7 +66,11 @@
     left: 1px;
     text-align: center;
 }
-
+.align-right {
+    padding-left: 35px;
+    text-align: right;
+    float: right;
+}
 .alert{
     border-radius: 0px;
 }
