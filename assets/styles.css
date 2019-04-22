@@ -1,13 +1,45 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto: 100,200,300,400,500,600,700|Anton: 300,400,500');
 
 
-/*---------------------------------------------------------------------Colours-------------*/
+/*------------------------------FF3C38---------------------------------------Colours------------- #262626 --black  #113462 dark blue  #454955 light grey  #6B1B12 dark organge*/
 .text-color-sextion {
     color: #FDFFFC
 }
-.navbar{
-        background-color: #6B1B12;
+
+.navbar-font{
+    color: #FF3C38;
 }
+
+.navbar{
+    background-color: #6B1B12;
+}
+
+
+.ui-menu-color{
+    background-color: #262626;
+}
+
+.bg-menu{
+    background-color:  #715703;
+}
+
+.alert-warning {
+    color: #FF3C38;
+    background-color: #715703;
+    border-color: #454955;
+}
+
+
+/*---------------------------------------------------------------------font--------------*/
+.navbar-font {
+    font-family:'Anton', sans-serif;
+    font-weight: 300;
+    font-size: 30px;
+}
+.align-right {
+    padding-left: 35px;
+}
+
 
 /*---------------------------------------------------------------------Header--------------*/
 .logo {
@@ -31,17 +63,81 @@
 .navbar {
     padding: 0;
     margin: 0;
-    position: fixed;
+    position: relative;
     z-index: 6;
     left: 1px;
     text-align: center;
 }
-.container-Jumbothron {
+
+.alert{
+    border-radius: 0px;
+}
+
+.alert-container{
+    display: inline-block;
+    margin: 0;
+}
+
+.wide-alert{
     width: 100%;
-    margin: auto;
+    margin: 0;
+}
+
+.list-inline-item:not(:last-child) {
+    margin: 0;
+}
+
+.no-pad{
+     margin-right:0;
+     margin-left:0;
+     padding: 0;
+}
+
+.menucontainer{
+    padding: 0;
+    display: inline;
+}
+#nav {
+    margin: 0;
+    text-align-last: center;
+}
+
+.menuitem {
+    height: 180px;
+    padding: 0;
+    text-align: center;
+    display: inline-block;
+    max-width: 19%;
+    width: 100%;
+
+    
 }
 
 
+.menuitem a {
+    width: 100%;
+    text-decoration: none;
+    color: #ffffff;
+    height: 120px;
+}
+
+.menuitem a i {
+    padding-top: 20px;
+    display: block;
+    color: #fafafa;
+    font-size: 26px;
+}
+
+.menuitem span {
+    display: block;
+    width: 100%;
+    padding-top: 5px;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 14px;
+    font-weight: 300;
+    letter-spacing: 2px;
+}
 /*---------------------------------------------------------------------Section--------------*/
 .container-fluid{
     margin: 0;
@@ -57,7 +153,7 @@
     -webkit-filter: blur(8px);
     display: inline-block;
     min-height: 100%;
-    z-index: -1;
+    z-index: -2;
     position: fixed;
     transition: all 1s ease-in-out;
     -moz-transition: all 1s ease-in-out;
@@ -87,11 +183,41 @@
     margin: 10px;
 }
 
+/*---------------------------------------------------------------------Footer--------------*/
+
+footer {
+    background-color: #525252;
+    color: #fafafa;
+    min-height: 120px;
+    margin: 0;
+    z-index: 6;
+    display: block;
+    position: fixed;
+    bottom: 0;
+}
+
+.display{
+    display: block;
+    position: fixed;
+}
+
+.row-footer{
+    display: block;
+    position: fixed;
+}
+
 /*---------------------------------------------------------------------MediaQ--------------*/
 
-@media(min-width: 600px){
+@media(min-width: 760px){
     .backround-image{
         filter: brightness(80%);
         -webkit-filter: brightness(80%);
         }
     }
+    
+@media(min-width: 760px){
+    .navbar-toggle{
+        display: none;
+    }
+}
+
