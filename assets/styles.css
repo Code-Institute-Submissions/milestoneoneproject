@@ -37,6 +37,15 @@
     font-size: 30px;
 }
 
+.text-style-into-block{
+    font-family: 'Anton', sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+    margin: 10px;
+}
+
+
+
 
 
 /*---------------------------------------------------------------------Header--------------*/
@@ -141,29 +150,34 @@
     letter-spacing: 2px;
 }
 /*---------------------------------------------------------------------Section--------------*/
+section {
+    height: 100%;
+}
 .container-fluid{
     margin: 0;
     width: 100%;
+    text-align: center;
+    padding: 0;
 }
 
+.text-style-into-block{
+    margin: 0;
+}
+
+
 .backround-image {
-    background: url("/assets/images/dreamstimeextralarge_134781260.jpg");
+    background-color:#113462;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
     margin: auto;
-    filter: blur(8px);
-    -webkit-filter: blur(8px);
     display: inline-block;
     min-height: 100%;
-    position:fixed;
-    z-index:-1;
-    transition: all 1s ease-in-out;
+    position:relative;
+     transition: all 1s ease-in-out;
     -moz-transition: all 1s ease-in-out;
     -o-transition: all 1s ease-in-out;
     -webkit-transition: all 1s ease-in-out;
-    
-    
 }
 
 
@@ -172,20 +186,34 @@
     border: 10px solid #6B1B12;
     border-radius: 50px;
     text-align: left;
-    margin: auto;
-    width: auto;
-    position: fixed;
-    z-index: 10;
-    padding: 15px;
-    min-height: 300px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    max-width:100%;
+    position: relative;
+    display: inline-table;
+    z-index: 20;
+    padding: 15px 14px 20px 14px;
+    min-height: 150px;
     
 }
 
-.text-style-into-block{
-    font-family: 'Anton', sans-serif;
-    font-weight: 400;
-    font-size: 20px;
-    margin: 10px;
+.intro-block-long{
+    border: 10px solid #6B1B12;
+    border-radius: 50px;
+    text-align: left;
+    width: 100%;
+    position: relative;
+    display: inline-block;
+    z-index: 10;
+    min-height: 180px;
+    padding: 0;
+    
+}
+.row{
+    margin: 0px;
+}
+.block-info{
+    display: inline;
 }
 
 /*---------------------------------------------------------------------Footer--------------*/
@@ -193,13 +221,12 @@
 footer {
     background-color: #6B1B12;
     color: #fafafa;
-    min-height: 100px;
-    margin: 0;
-    display: block;
     position: fixed;
-    z-index: 1;
     bottom: 0;
+    left: 0;
+    right: 0;
     width: 100%;
+    max-height: 100px;
 }
 
 .logo-footer {
@@ -209,7 +236,7 @@ footer {
     background-size: cover;
     display: block;
     z-index: -1;
-    min-height: 100px;
+    min-height:100%;
     transition: all 1s ease-in-out;
     -moz-transition: all 1s ease-in-out;
     -o-transition: all 1s ease-in-out;
@@ -220,8 +247,18 @@ footer {
 
 @media(min-width: 760px){
     .backround-image{
-        filter: brightness(80%);
-        -webkit-filter: brightness(80%);
+        background: url("/assets/images/dreamstimeextralarge_134781260.jpg");
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        margin: auto;
+        display: inline-block;
+        min-height: 100%;
+        position:relative;
+         transition: all 1s ease-in-out;
+        -moz-transition: all 1s ease-in-out;
+        -o-transition: all 1s ease-in-out;
+        -webkit-transition: all 1s ease-in-out;
         }
     }
     
@@ -229,5 +266,18 @@ footer {
     .navbar-toggle{
         display: none;
     }
+    .intro-block{
+        width: 19%;
+    }
+     html, body {
+    height: 100%;
+    margin: 0;
+     }
+     
+    body {
+     min-height: 100%;
+     background: none;
+    }
+
 }
 
