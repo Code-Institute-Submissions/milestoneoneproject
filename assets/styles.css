@@ -29,8 +29,19 @@
     border-color: #454955;
 }
 
+.navbar.navbar.navbar-light .navbar-nav .nav-item .nav-link {
+    color:  #715703;
+}
+
 
 /*---------------------------------------------------------------------font--------------*/
+
+.dropdown-text-styles{
+    font-family: 'Anton', sans-serif;
+    font-weight: 300;
+    font-size: 20px;
+
+}
 
 .text-style-into-block{
     font-family: 'Anton', sans-serif;
@@ -38,9 +49,6 @@
     font-size: 20px;
     margin: 10px;
 }
-
-
-
 
 
 /*---------------------------------------------------------------------Header--------------*/
@@ -74,8 +82,8 @@
     -webkit-transition: all 1s ease-in-out;
 }
 
-.navbar.navbar-1 .navbar-toggler-icon {
-    background-image: url('https://mdbootstrap.com/img/svg/hamburger6.svg?color=000');
+.navbar.navbar-2 .navbar-toggler-icon {
+     background-image: url('https://mdbootstrap.com/img/svg/hamburger2.svg?color=#4285F4'); 
 }
 
 .navbar {
