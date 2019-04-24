@@ -30,7 +30,7 @@
 }
 
 .navbar.navbar.navbar-light .navbar-nav .nav-item .nav-link {
-    color:  #715703;
+    color:  #FF3C38;
 }
 
 .navbar.navbar-2 .navbar-toggler-icon {
@@ -59,7 +59,10 @@ button{
     margin: 10px;
 }
 
-
+.alert-warning{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 200;
+}
 /*---------------------------------------------------------------------Header--------------*/
 
 
@@ -98,7 +101,6 @@ button{
     margin: 0;
     position: relative;
     z-index: 6;
-    left: 1px;
     text-align: left;
 }
 .align-right {
@@ -120,8 +122,8 @@ button{
     margin: 0;
 }
 
-.list-inline-item:not(:last-child) {
-    margin: 0;
+.list-inline-item:not(:last-child){
+    margin:0px -4px 0px -4px;
 }
 
 .no-pad{
@@ -139,6 +141,8 @@ button{
     text-align-last: center;
 }
 
+
+
 .menuitem {
     height: 180px;
     padding: 0;
@@ -146,8 +150,6 @@ button{
     display: inline-block;
     max-width: 19%;
     width: 100%;
-
-    
 }
 
 
@@ -277,7 +279,12 @@ footer {
     -o-transition: all 1s ease-in-out;
     -webkit-transition: all 1s ease-in-out;
 }
+/** ...........................................................Hover......................**/
 
+.hvr-sweep-to-bottom:before {
+    background-color: rgba(237, 236, 238, 0.2);
+    height: 120px;
+}
 /*---------------------------------------------------------------------MediaQ--------------*/
 
 @media(min-width: 760px){
