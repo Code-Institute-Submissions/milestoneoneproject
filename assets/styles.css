@@ -20,12 +20,16 @@
 }
 
 .bg-menu{
-    background-color:  #715703;
+    background-color:  #262626;
+}
+
+a {
+    color: #99ccff;
 }
 
 .alert-warning {
     color: #FF3C38;
-    background-color: #715703;
+    background-color: #262626;
     border-color: #454955;
 }
 
@@ -45,6 +49,9 @@ button{
 
 /*---------------------------------------------------------------------font--------------*/
 
+.uppercase{
+    text-transform: uppercase;
+}
 .dropdown-text-styles{
     font-family: 'Anton', sans-serif;
     font-weight: 300;
@@ -62,6 +69,15 @@ button{
 .alert-warning{
     font-family: 'Roboto', sans-serif;
     font-weight: 200;
+    font-size: 30px;
+}
+
+.general-sub{
+    color: #99ccff;
+    padding-top: 20px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 25px;
+    font-weight: 100px;
 }
 /*---------------------------------------------------------------------Header--------------*/
 
@@ -145,7 +161,7 @@ button{
 
 .menuitem {
     height: 180px;
-    padding: 0;
+    padding:0px;
     text-align: center;
     display: inline-block;
     max-width: 19%;
@@ -161,7 +177,7 @@ button{
 }
 
 .menuitem a i {
-    padding-top: 20px;
+    padding-top: 30px;
     display: block;
     color: #fafafa;
     font-size: 26px;
@@ -170,7 +186,7 @@ button{
 .menuitem span {
     display: block;
     width: 100%;
-    padding-top: 5px;
+    padding-top: 15px;
     text-align: center;
     text-transform: uppercase;
     font-size: 14px;
@@ -254,6 +270,20 @@ section {
 
 /*---------------------------------------------------------------------Footer--------------*/
 
+.list-inline-item-footer{
+    display: inline;
+    padding-left: 5px;
+    padding-right: 5px;
+    font-size: 25px;
+}
+.general-sub{
+    margin:0px;
+}
+
+list-inline-item-footer, a, i{
+    /*font-size:20px;*/
+    padding-top:10px;
+}
 footer {
     background-color: #6B1B12;
     color: #fafafa;
@@ -279,11 +309,18 @@ footer {
     -o-transition: all 1s ease-in-out;
     -webkit-transition: all 1s ease-in-out;
 }
+
+.padding-contact{
+    padding-top: 20px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 25px;
+    font-weight: 100px;
+}
 /** ...........................................................Hover......................**/
 
 .hvr-sweep-to-bottom:before {
     background-color: rgba(237, 236, 238, 0.2);
-    height: 120px;
+    height: 180px;
 }
 /*---------------------------------------------------------------------MediaQ--------------*/
 
@@ -308,22 +345,26 @@ footer {
     .navbar-toggle{
         display: none;
     }
+    
     .intro-block{
         width: 19%;
     }
+    
      html, body {
     height: 100%
      }
+     
      .navbar-font {
     font-family: 'Anton', sans-serif;
     font-weight: 300;
     font-size: 30px;
-    padding-top: 43px;
+    padding-top: 35px;
     }
+    
     .logo-nav {
         background: none;
         background-color:#6B1B12;
-        min-height: 120px;
+        min-height: 106px;
     }
 
 
