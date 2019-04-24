@@ -33,6 +33,15 @@
     color:  #715703;
 }
 
+.navbar.navbar-2 .navbar-toggler-icon {
+     background-image: url('https://mdbootstrap.com/img/svg/hamburger2.svg?color=#4285F4');
+     background-color: #FF3C38 !important;
+     background-size: cover !important
+}
+button{
+    background-color: #FF3C38 !important;
+    border-color: #113462 !important;
+}
 
 /*---------------------------------------------------------------------font--------------*/
 
@@ -82,9 +91,7 @@
     -webkit-transition: all 1s ease-in-out;
 }
 
-.navbar.navbar-2 .navbar-toggler-icon {
-     background-image: url('https://mdbootstrap.com/img/svg/hamburger2.svg?color=#4285F4'); 
-}
+
 
 .navbar {
     padding: 0;
