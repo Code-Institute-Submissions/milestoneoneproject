@@ -3,7 +3,7 @@
 
 /*------------------------------FF3C38---------------------------------------Colours------------- #262626 --black  #113462 dark blue  #454955 light grey  #6B1B12 dark organge*/
 .text-color-sextion {
-    color: #FDFFFC
+    color: #ffff66;
 }
 
 .navbar-font{
@@ -64,6 +64,13 @@ button{
     font-weight: 400;
     font-size: 20px;
     margin: 10px;
+}
+.text-style-into-block-small{
+    font-family: 'Anton', sans-serif;
+    font-weight: 400;
+    font-size: 40px;
+    margin: 0px;
+    overflow-x:hidden;
 }
 
 .alert-warning{
@@ -210,11 +217,19 @@ section{
     padding-top: 20px;
 }
 
+.wrapper{
+    text-align: center;
+    width: 100%;
+}
+
 .text-style-into-block{
     margin: 0;
 }
 
-
+/*.spacing-block{
+    overflow-x:hidden;
+    white-space:nowrap;
+}*/
 .backround-image {
     background-color:#113462;
     background-position: center;
@@ -223,6 +238,7 @@ section{
     margin: auto;
     display: inline-block;
     min-height: 100%;
+    width: 100%;
     position:relative;
     z-index: -1;
      transition: all 1s ease-in-out;
@@ -235,8 +251,8 @@ section{
 
 .intro-block{
     border: 10px solid #6B1B12;
-    border-radius: 50px;
-    text-align: left;
+    border-radius: 30px;
+    text-align: center;
     margin-top: 20px;
     margin-bottom: 20px;
     max-width:100%;
@@ -250,7 +266,7 @@ section{
 
 .intro-block-long{
     border: 10px solid #6B1B12;
-    border-radius: 50px;
+    border-radius: 30px;
     text-align: left;
     width: 100%;
     position: relative;
@@ -348,10 +364,12 @@ footer {
     
     .intro-block{
         width: 19%;
-        margin-bottom: fixed;
+        margin-bottom: 30px;
     }
      .intro-block-long{
-        margin-bottom: 70px;
+        margin-bottom: 60px;
+        margin-top: 40px;
+        max-width: 60%;
     }
     
     html, body {
@@ -376,7 +394,11 @@ footer {
     .collapse {
         display: none;
     }
-
+    .text-style-into-block-small{
+    overflow-x:hidden;
+    white-space:nowrap;
+    margin: 10px;
+    }
 
 }
 
