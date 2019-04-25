@@ -226,10 +226,12 @@ section{
     margin: 0;
 }
 
-/*.spacing-block{
-    overflow-x:hidden;
-    white-space:nowrap;
-}*/
+.align-help{
+    text-align: center;
+    width: 100%;
+    display: block
+    
+}
 .backround-image {
     background-color:#113462;
     background-position: center;
