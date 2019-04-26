@@ -205,6 +205,8 @@ button{
 section{
     height: 100%;
 }
+
+
 .container-fluid{
     margin: 0;
     width: 100%;
@@ -334,6 +336,24 @@ footer {
 .bottom-spacing{
     margin-bottom: -5px;
 }
+
+/** ...........................................................Contact.html......................**/
+
+.form-align{
+    text-align: center;
+}
+
+.form-container{
+    width: 80%;
+    text-align: center;
+    display: inline-block;
+    padding: 20px;
+    margin-top: 10px;
+    margin-bottom: 30%;
+    position: relative;
+}
+
+
 /** ...........................................................Hover......................**/
 
 .hvr-sweep-to-bottom:before {
@@ -400,6 +420,9 @@ footer {
     overflow-x:hidden;
     white-space:nowrap;
     margin: 10px;
+    }
+    .form-container{
+    width: 55%;
     }
 
 }
