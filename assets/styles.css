@@ -202,9 +202,9 @@ button{
 }
 /*---------------------------------------------------------------------Section--------------*/
 
-section{
+/*section{
     height: 100%;
-}
+}*/
 
 
 .container-fluid{
@@ -339,6 +339,24 @@ footer {
 
 /** ...........................................................Contact.html......................**/
 
+.container-2 {
+  width: 100px;
+  height: 100px;
+  position: relative;
+}
+
+.backround-image .form-align {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.background-image {
+    z-index: 10;
+}
+
 .form-align{
     text-align: center;
 }
@@ -350,9 +368,33 @@ footer {
     padding: 20px;
     margin-top: 10px;
     margin-bottom: 30%;
-    position: relative;
 }
 
+
+/*#form-section {*/
+/*  width: 100px;*/
+/*  height: 100px;*/
+/*  position: relative;*/
+/*}*/
+
+/*#form-section #form-input {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+}*/
+
+#form-background {
+    background: url("/assets/images/dreamstimeextralarge_134781260.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+/*#input {
+    z-index: -10;    
+}*/
 
 /** ...........................................................Hover......................**/
 
@@ -371,7 +413,6 @@ footer {
         margin: auto;
         display: inline-block;
         min-height: 100%;
-        position:relative;
          transition: all 1s ease-in-out;
         -moz-transition: all 1s ease-in-out;
         -o-transition: all 1s ease-in-out;
