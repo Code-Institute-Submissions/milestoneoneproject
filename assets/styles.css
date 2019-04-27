@@ -47,6 +47,15 @@ button{
     border-color: #113462 !important;
 }
 
+.form-font-style{
+    background: #ffbb3378;
+}
+
+.contact-details{
+        background: #4c3c42a6;
+        
+}
+
 /*---------------------------------------------------------------------font--------------*/
 
 .uppercase{
@@ -84,8 +93,21 @@ button{
     padding-top: 20px;
     font-family: 'Roboto', sans-serif;
     font-size: 25px;
-    font-weight: 100px;
+    font-weight: 100;
 }
+.form-font-style{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 900;
+    color: #262626;
+    font-size: 20px;
+}
+
+.contact-details{
+    font-size:20px;
+    color:#ffff66;
+    font-weight: 900;
+}       
+
 /*---------------------------------------------------------------------Header--------------*/
 
 
@@ -355,10 +377,23 @@ footer {
     display: inline-block;
     padding: 20px;
     margin-top: 10px;
-    margin-bottom: 30%;
+    margin-bottom: 10%;
 }
 
+.name-block{
+    padding: 0px;
+}
+.last-name-block{
+    padding-right:0px;
+}
 
+.form-check{
+    display: inline-block;
+}
+.contact-details{
+    margin-bottom:20%;
+    text-align:center;
+}
 
 /** ..................................................................Hover................**/
 
