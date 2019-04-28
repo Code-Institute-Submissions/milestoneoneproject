@@ -119,7 +119,7 @@ button{
 
 
 .logo {
-    background: url("/assets/images/bSentientlogo.jpg");
+    background: url("assets/images/bSentientlogo.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -133,7 +133,7 @@ button{
 }
 
 .logo-nav {
-    background: url("/assets/images/bSentientlogo.jpg");
+    background: url("assets/images/bSentientlogo.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -232,7 +232,7 @@ button{
 /*---------------------------------------------------------------------Section--------------*/
 
 #section-background-1 {
-    background: url("/assets/images/dreamstimemaximum_140964942_mobilebackground.jpg");
+    background: url("assets/images/dreamstimemaximum_140964942_mobilebackground.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -343,7 +343,7 @@ footer {
    }
 
 .logo-footer {
-    background: url("/assets/images/bSentientlogo.jpg");
+    background: url("assets/images/bSentientlogo.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -399,7 +399,7 @@ footer {
 /** ...........................................................service.html......................**/
 
 #section-background-2 {
-    background: url("/assets/images/dreamstimeextralarge_134781260.jpg");
+    background: url("assets/images/dreamstimeextralarge_134781260.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -445,7 +445,7 @@ footer {
 
 @media(min-width: 760px){
     #section-background-1 {
-    background: url("/assets/images/dreamstimeextralarge_134781260.jpg");
+    background: url("assets/images/dreamstimeextralarge_134781260.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -456,7 +456,7 @@ footer {
         -webkit-transition: all 1s ease-in-out;
     }
     #section-background-2{
-        background: url("/assets/images/dreamstimemaximum_140964942A.jpg");
+        background: url("assets/images/dreamstimemaximum_140964942A.jpg");
         background-position: center;
         background-repeat: no-repeat;
         background-size: cover;
