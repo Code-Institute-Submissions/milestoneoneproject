@@ -102,6 +102,12 @@ button{
     color: #262626;
     font-size: 20px;
 }
+.grid-element {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    font-size: 20px;
+    color: #262626;
+}
 
 .contact-details{
     font-size:20px;
@@ -390,6 +396,45 @@ footer {
     text-align:center;
 }
 
+/** ...........................................................service.html......................**/
+
+#section-background-2 {
+    background: url("/assets/images/dreamstimeextralarge_134781260.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 100%;
+    position: relative;
+    transition: all 1s ease-in-out;
+        -moz-transition: all 1s ease-in-out;
+        -o-transition: all 1s ease-in-out;
+        -webkit-transition: all 1s ease-in-out;
+}
+.container-grid{
+    padding:30px;
+}
+
+.container{
+    position: relative;
+    width: auto;
+    z-index: 2;
+    display: inline-table;
+    margin: 10% 10% 15% 10%;
+}
+
+.opaque-overlay-grid {
+    position: absolute;
+    z-index: -200;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    background-color: rgba(217, 188, 131, 0.82);
+}
+
+
+
+
 /** ..................................................................Hover................**/
 
 .hvr-sweep-to-bottom:before {
@@ -409,6 +454,17 @@ footer {
         -moz-transition: all 1s ease-in-out;
         -o-transition: all 1s ease-in-out;
         -webkit-transition: all 1s ease-in-out;
+    }
+    #section-background-2{
+        background: url("/assets/images/dreamstimemaximum_140964942A.jpg");
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        min-height: 100%;
+        transition: all 1s ease-in-out;
+        -moz-transition: all 1s ease-in-out;
+        -o-transition: all 1s ease-in-out;
+        -webkit-transition: all 1s ease-in-out
     }
 }
     
