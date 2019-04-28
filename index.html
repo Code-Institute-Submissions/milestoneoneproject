@@ -19,15 +19,15 @@
 
 <body>
     <header>
-        <!--Navbar-->
+<!--Navbar-->
         <nav class="navbar navbar-light logo-nav navbar-2">
-              <!-- Collapse button -->
+<!-- Collapse button -->
             <button class="navbar-toggle collapsed" type="button" data-toggle="collapse" data-target="#navbarSupportedContent15" aria-controls="navbarSupportedContent15" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
-            <!-- Navbar brand -->
+<!-- Navbar brand -->
             <div class="align-right">
                 <a class="navbar-font col d-none d-md-block" href="#">bSentient Engineering and Development</a>
             </div>
-            <!-- Collapsible content -->
+<!-- Collapsible content -->
             <div class="collapse navbar-collapse" id="navbarSupportedContent15">
                 <!-- Links -->
                 <ul class="navbar-nav mr-auto dropdown-text-styles">
@@ -50,11 +50,10 @@
                         <a class="nav-link" href="contact.html">Contact</a>
                     </li>
                 </ul>
-                <!-- Links -->
             </div>
-            <!-- Collapsible content -->
+<!-- Collapsible content -->
         </nav>
-        <!--/.Navbar-->
+<!--/.Navbar desktop.....-->
         <div class="row no-gutters">
             <a class="col-md-4 col d-none d-md-block logo" href="index.html"></a>
             <div class="col-md-8">
@@ -88,14 +87,15 @@
                 </div>
             </div>
         </div>
+<!--/.Navbar desktop.....-->
     </header>
     
     <section id="section-background-1" class="container-fluid ">
         <div>
-                <!-- Callout -->
+<!-- ......Jumbothron -->
                 <div class="row">
                     <div class="col-12">
-                        <section class="callout jumbotron text-center">
+                        <section class="jumbotron text-center">
                             <div class="opaque-overlay">&nbsp;</div>
                             <h1 class="jumbotron-header">Need help!</h1>
                             <hr class="block-divider block-divider-gold">
@@ -106,8 +106,33 @@
                             <p class="lead">We provide experienced consultants, developers and training to cater to your every need in the high-tech scene.</p>
                             <button class="btn btn-lg btn--cta btn--red" data-toggle="modal" data-target="#signUpModal">Contact us</button>
                         </section>
+                        <hr class="block-divider block-divider-gold">
                     </div>
-        <!-- /.callout -->
+                </div>
+            
+<!-- ......Jumbothron -->
+<!-- ......info blocks -->
+                    <div class="row container-fluid">
+                        <div class="col-12 block-info">
+                            <section class="callout jumbotron text-center">
+                                <div class="opaque-overlay">&nbsp;</div>
+                                <h1 class="jumbotron-header">Need help!</h1>
+                            </section>
+                            <section class="callout jumbotron text-center">
+                                <div class="opaque-overlay">&nbsp;</div>
+                                <h1 class="jumbotron-header">Need help!</h1>
+                            </section>
+                            <section class="callout jumbotron text-center">
+                                <div class="opaque-overlay">&nbsp;</div>
+                                <h1 class="jumbotron-header">Need help!</h1>
+                            </section>
+                            <section class="callout jumbotron text-center">
+                                <div class="opaque-overlay">&nbsp;</div>
+                                <h1 class="jumbotron-header">Need help!</h1>
+                            </section>
+                        </div>
+                    </div>
+
             <!--<div class="row padding-section">
                 <div class="wrapper">
                  <div class="col-xs-12 col-sm-12 col-md-12 intro-block-long text-color-sextion text-style-into-block">
@@ -172,89 +197,102 @@
             </div>
         </div>
     </footer>
-    
+    <!--modal....-->
     <div class="modal" tabindex="-1" role="dialog" id="signUpModal">
         <div class="modal-dialog" role="document">
             <div class="modal-content">
                 <div class="modal-header">
                     <h5 class="modal-title">Contact us</h5>
                     <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-          <span aria-hidden="true">&times;</span>
-        </button>
+                      <span aria-hidden="true">&times;</span>
+                    </button>
                 </div>
                 <div class="modal-body">
-                     <div class="form-group">
-                    <label for="exampleFormControlSelect1">Technology area</label>
-                    <select class="form-control" id="exampleFormControlSelect1">
-                      <option>Embedded systems</option>
-                      <option>Open Source</option>
-                      <option>IoT</option>
-                    </select>
-                </div>
-                <fieldset class="form-group">
-                    <div class="row">
-                        <legend class="col-form-label col-sm-2 pt-0">Type of service</legend>
-                        <div class="col-sm-10">
-                            <div class="form-check">
-                                <input class="form-check-input" type="radio" name="gridRadios" id="gridRadios1" value=" Out sourced Product development" checked>
-                                <label class="form-check-label" for="gridRadios1">
-                            Out sourced Product development
-                          </label>
+                    <form>
+                        <div class="row">
+                            <div class="col name-block">
+                                <input type="text" class="form-control" placeholder="First name">
                             </div>
-                            <div class="form-check">
-                                <input class="form-check-input" type="radio" name="gridRadios" id="gridRadios2" value="Consulting">
-                                <label class="form-check-label" for="gridRadios2">
-                            Consulting
-                          </label>
-                            </div>
-                            <div class="form-check ">
-                                <input class="form-check-input" type="radio" name="gridRadios" id="gridRadios3" value="Trainner">
-                                <label class="form-check-label" for="gridRadios3">
-                            Trainner
-                          </label>
-                          </div>
-                            <div class="form-check ">
-                                <input class="form-check-input" type="radio" name="gridRadios" id="gridRadios3" value="In house development">
-                                <label class="form-check-label" for="gridRadios4">
-                            In house development
-                          </label>
+                            <div class="col last-name-block">
+                                <input type="text" class="form-control" placeholder="Last name">
                             </div>
                         </div>
-                    </div>
-                </fieldset>
-                <div class="form-group">
-                    <label for="exampleFormControlTextarea1">Questions</label>
-                    <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
-                </div>
-                <div class="form-group">
-                <label for="inputAddress">Address</label>
-                <input type="text" class="form-control" id="inputAddress" placeholder="1234 Main St">
-                </div>
-                <div class="form-group">
-                    <label for="inputAddress2">Address 2</label>
-                    <input type="text" class="form-control" id="inputAddress2" placeholder="Apartment, studio, or floor">
-                </div>
-                <div class="form-row">
-                    <div class="form-group col-md-6">
-                        <label for="inputCity">City</label>
-                        <input type="text" class="form-control" id="inputCity">
-                    </div>
-                    <div class="form-group col-md-4">
-                        <label for="inputState">State/Province</label>
-                        <input type="text" class="form-control" id="inputState">
-                    </div>
-                    <div class="form-group col-md-2">
-                        <label for="inputZip">Zip</label>
-                        <input type="text" class="form-control" id="inputZip">
-                    </div>
-                </div>
-                <button type="submit" class="btn">Send</button>
-            </form>
+                        <div class="form-group">
+                            <label for="exampleFormControlInput1">Email address</label>
+                            <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="name@example.com">
+                        </div>
+                        <div class="form-group">
+                            <label for="exampleFormControlSelect1">Technology area</label>
+                            <select class="form-control" id="exampleFormControlSelect1">
+                                              <option>Embedded systems</option>
+                                              <option>Open Source</option>
+                                              <option>IoT</option>
+                                            </select>
+                        </div>
+                        <fieldset class="form-group">
+                            <div class="row">
+                                <legend class="col-form-label col-sm-2 pt-0">Type of service</legend>
+                                <div class="col-sm-10">
+                                    <div class="form-check">
+                                        <input class="form-check-input" type="radio" name="gridRadios" id="gridRadios1" value=" Out sourced Product development" checked>
+                                        <label class="form-check-label" for="gridRadios1">
+                                                    Out sourced Product development
+                                                  </label>
+                                    </div>
+                                    <div class="form-check">
+                                        <input class="form-check-input" type="radio" name="gridRadios" id="gridRadios2" value="Consulting">
+                                        <label class="form-check-label" for="gridRadios2">
+                                                    Consulting
+                                                  </label>
+                                    </div>
+                                    <div class="form-check ">
+                                        <input class="form-check-input" type="radio" name="gridRadios" id="gridRadios3" value="Trainner">
+                                        <label class="form-check-label" for="gridRadios3">
+                                                    Trainner
+                                                  </label>
+                                    </div>
+                                    <div class="form-check ">
+                                        <input class="form-check-input" type="radio" name="gridRadios" id="gridRadios3" value="In house development">
+                                        <label class="form-check-label" for="gridRadios4">
+                                                    In house development
+                                                  </label>
+                                    </div>
+                                </div>
+                            </div>
+                        </fieldset>
+                        <div class="form-group">
+                            <label for="exampleFormControlTextarea1">Questions</label>
+                            <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
+                        </div>
+                        <div class="form-group">
+                            <label for="inputAddress">Address</label>
+                            <input type="text" class="form-control" id="inputAddress" placeholder="1234 Main St">
+                        </div>
+                        <div class="form-group">
+                            <label for="inputAddress2">Address 2</label>
+                            <input type="text" class="form-control" id="inputAddress2" placeholder="Apartment, studio, or floor">
+                        </div>
+                        <div class="form-row">
+                            <div class="form-group col-md-6">
+                                <label for="inputCity">City</label>
+                                <input type="text" class="form-control" id="inputCity">
+                            </div>
+                            <div class="form-group col-md-4">
+                                <label for="inputState">State/Province</label>
+                                <input type="text" class="form-control" id="inputState">
+                            </div>
+                            <div class="form-group col-md-2">
+                                <label for="inputZip">Zip</label>
+                                <input type="text" class="form-control" id="inputZip">
+                            </div>
+                        </div>
+                        <button type="submit" class="btn">Send</button>
+                    </form>
                 </div>
             </div>
         </div>
     </div>
-
+    <!--modal....-->
     <!-- JQuery -->
     <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
     <!-- Bootstrap tooltips -->

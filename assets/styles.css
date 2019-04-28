@@ -272,7 +272,7 @@ button{
     width: 100%;
 }*/
 
-.text-style-into-block{
+/*.text-style-into-block{
     margin: 0;
 }
 
@@ -281,30 +281,12 @@ button{
     width: 100%;
     display: block
     
-}
-
-.intro-block{
-    border: 10px solid #6B1B12;
-    border-radius: 30px;
-    text-align: center;
-    margin-top: 20px;
-    margin-bottom: 20px;
-    max-width:100%;
-    position: relative;
-    display: inline-table;
-    z-index: 20;
-    padding: 30px 14px 20px 14px;
-    min-height: 150px;
-    
-}
-
+}*/
 
 .row{
     margin: 0px;
 }
-.block-info{
-    display: inline;
-}
+
 
 /* ..................................................................Jumbotron........... */
 
@@ -468,6 +450,13 @@ footer {
     .form-container{
     width: 55%;
     }
-
+    .callout{
+    display: inline-block;
+    width: 22%;
+    margin: 10px;
+    }
+    .block-info{
+    padding: 0px;
+    }
 }
 
