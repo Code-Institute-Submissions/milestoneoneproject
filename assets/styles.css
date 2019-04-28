@@ -452,8 +452,9 @@ footer {
     }
     .callout{
     display: inline-block;
-    width: 22%;
+    /*width: 22%;*/
     margin: 10px;
+    /*min-height: 100%;*/
     }
     .block-info{
     padding: 0px;
