@@ -119,7 +119,7 @@ button{
 
 
 .logo {
-    background: url("assets/images/bSentientlogo.jpg");
+    background: url("images/bSentientlogo.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -133,7 +133,7 @@ button{
 }
 
 .logo-nav {
-    background: url("assets/images/bSentientlogo.jpg");
+    background: url("images/bSentientlogo.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -232,7 +232,7 @@ button{
 /*---------------------------------------------------------------------Section--------------*/
 
 #section-background-1 {
-    background: url("assets/images/dreamstimemaximum_140964942_mobilebackground.jpg");
+    background: url("images/dreamstimemaximum_140964942_mobilebackground.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -343,7 +343,7 @@ footer {
    }
 
 .logo-footer {
-    background: url("assets/images/bSentientlogo.jpg");
+    background: url("images/bSentientlogo.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -364,9 +364,9 @@ footer {
     font-weight: 100px;
 }
 
-.bottom-spacing{
-    margin-bottom: -5px;
-}
+/*.bottom-spacing{*/
+/*    margin-bottom: -5px;*/
+/*}*/
 
 /** ...........................................................Contact.html......................**/
 
@@ -399,7 +399,7 @@ footer {
 /** ...........................................................service.html......................**/
 
 #section-background-2 {
-    background: url("assets/images/dreamstimeextralarge_134781260.jpg");
+    background: url("images/dreamstimeextralarge_134781260.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -432,8 +432,17 @@ footer {
     background-color: rgba(217, 188, 131, 0.82);
 }
 
-
-
+/** ...........................................................training.html......................**/
+.training-h2{
+    text-transform: uppercase;
+    font-family: "Roboto", sans-serif;
+}
+.reasons-style, h3{
+    text-align: left;
+    font-size: 17px;
+    font-weight: bolder;
+    font-family: "Roboto", sans-serif;
+}
 
 /** ..................................................................Hover................**/
 
@@ -445,7 +454,7 @@ footer {
 
 @media(min-width: 760px){
     #section-background-1 {
-    background: url("assets/images/dreamstimeextralarge_134781260.jpg");
+    background: url("images/dreamstimeextralarge_134781260.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -456,7 +465,7 @@ footer {
         -webkit-transition: all 1s ease-in-out;
     }
     #section-background-2{
-        background: url("assets/images/dreamstimemaximum_140964942A.jpg");
+        background: url("images/dreamstimemaximum_140964942A.jpg");
         background-position: center;
         background-repeat: no-repeat;
         background-size: cover;
