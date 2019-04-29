@@ -547,7 +547,20 @@ footer {
     margin-bottom: 8px;
     text-transform: uppercase;
 }
+/** ..................................................................Product.html................**/
 
+#section-background-4 {
+    background: url("images/dreamstimeextralarge_9699098.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 100%;
+    position: relative;
+    transition: all 1s ease-in-out;
+        -moz-transition: all 1s ease-in-out;
+        -o-transition: all 1s ease-in-out;
+        -webkit-transition: all 1s ease-in-out;
+}
 
 /** ..................................................................Hover................**/
 
