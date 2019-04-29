@@ -446,6 +446,19 @@ footer {
 
 /** ...........................................................about.html......................**/
 
+#section-background-3 {
+    background: url("images/dreamstimemaximum_140964942_mobilebackground.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 100%;
+    position: relative;
+    transition: all 1s ease-in-out;
+        -moz-transition: all 1s ease-in-out;
+        -o-transition: all 1s ease-in-out;
+        -webkit-transition: all 1s ease-in-out;
+}
+
 .z-image{
     background: url("images/Zofia.jpg");
     width: 100%;
@@ -487,20 +500,11 @@ footer {
 }
 
 .team {
-    zoom: 1;
     margin-top: 40px;
 }
 
 .grid-4 {
-   /* width: 33.33333%;*/
-    display: inline-block;
-    min-height: 1px;
-    -moz-box-sizing: border-box;
-    box-sizing: border-box;
     float: left;
-    direction: ltr;
-    padding-left: 10px;
-    padding-right: 10px;
 }
 
 .team-member {
@@ -508,32 +512,23 @@ footer {
     text-align: center;
 }
 
-.team-member .team-member-inner {
-    position: relative;
-}
 
 .team-member ul {
     list-style: none;
-    margin-top: 16px;
-    overflow: hidden;
+/*    margin-top: 16px;
+    overflow: hidden;*/
     padding: 0px;
 }
 
 .team-member li{
     display: inline-block;
-    text-align: center;
 }
-.team-member li+li {
+.team-member li+li{
     margin-left: 10px;
-}
-.team-member .team-member-inner {
-    position: relative;
 }
 
 .team-member .job-role {
-    border-top: 1px solid grey;
-    color: #434a54;
-    display: inline-block;
+    color: #262626;
     font-size: 0.875em;
     font-weight: 400;
     letter-spacing: .04em;
@@ -541,33 +536,14 @@ footer {
     padding: 2px 0;
 }
 .team-member .team-member-shadowy {
-    -webkit-transition: all .333s;
-    transition: all .333s;
-    overflow: hidden;
     padding-bottom: 80px;
 }
 
-/*.team-member .team-member-info {
-    position: absolute;
-    right: 0px;
-    bottom: -80px;
-    left: 0px;
-    -webkit-transition: height .333s;
-    transition: height .333s;
-    background-color: white;
-    height: 100px;
-    overflow: hidden;
-    padding: 30px 0;
-}*/
-
 .team-member .team-member-shadowy .team-member-info {
-    height: 130px;
     padding: 20px 0;
 }
 
-
-
-.team-member h2 {
+.team-member .team-name {
     color: #434a54;
     font-size: 1.125em;
     font-weight: 500;
@@ -610,9 +586,19 @@ footer {
         -o-transition: all 1s ease-in-out;
         -webkit-transition: all 1s ease-in-out
     }
-}
-    
-@media(min-width: 760px){
+    #section-background-3 {
+    background: url("images/dreamstimeextralarge_111718113.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 100%;
+    position: relative;
+    transition: all 1s ease-in-out;
+        -moz-transition: all 1s ease-in-out;
+        -o-transition: all 1s ease-in-out;
+        -webkit-transition: all 1s ease-in-out;
+    }
+
     .navbar-toggle{
         display: none;
     }
