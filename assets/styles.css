@@ -512,11 +512,8 @@ footer {
     text-align: center;
 }
 
-
 .team-member ul {
     list-style: none;
-/*    margin-top: 16px;
-    overflow: hidden;*/
     padding: 0px;
 }
 
@@ -550,7 +547,6 @@ footer {
     margin-bottom: 8px;
     text-transform: uppercase;
 }
-
 
 
 /** ..................................................................Hover................**/
