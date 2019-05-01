@@ -102,11 +102,73 @@ see link to document
     • How do I contact someone
     o Asking for an assessment of enquiry or/and connecting on social media.
     
-    to see feasibility matrix go to [Strategy plane](./user-design-experience/Strategy_Plane/Strategy_Plane.pdf)
+    to see feasibility matrix go to 
+    [Strategy plane](./user-design-experience/Strategy_Plane/Strategy_Plane.pdf)
     
+### Scope Plane
+see link to document
+[Scope Plane](./user-design-experience/Scope_Plane/Scope_Plane.pdf)
+    
+    What they say they need
+    • A Website.
+    • Customers and potential customer can read about the company and see what they can do and
+    what they have done
+    • The company needs a medium in which the they can be contacted with potential leads.
+    • To showcase on their new product, a video clip and a way to link the customer to the webstore.
+    • To showcase the training that they can give and a link to some material downloads
+    • To add links to their Linked, Facebook and pages which are currently being created.
+    What they actually need
+    • A mobile-first responsive website.
+    • A contact page.
+    • A page to showcase their professional services to the customer/ potential customer.
+    • Links to their social media platforms and web shop.
+    What they don’t know they need
+    • A ‘sign up for the newsletter" pop up to get the latest product development and training news.
+    • At a later time possibly a online booking agenda for the training.
+    • A marketing slogan where there is a special on training eg if you book now or a free quote for a
+    Product development project
+    
+    See senario and requirements match in document see link
+    [Scope Plane](./user-design-experience/Scope_Plane/Scope_Plane.pdf)
 
-### mockups:
+### Structure Plane
+see link to document
+[Structure Plane](./user-design-experience/Structure_Plane/Structure_Plane.pdf)
 
+    Information Architecture
+    Will be a simple tree structure using a horizontal bar near the top of the page taking up the right two
+    thirds of the page.
+    Interaction Design (IXD)
+    • Site Logo will bring user back to home as well as having ‘Home’ on the navigation bar in case
+    some un-tech savvy users don’t know this convention.
+    • Each Menu heading will have some sort of roll over to confirm that clicking that area has an
+    action.
+    • Each navigation button will have a particular color, which will be used on its corresponding page
+    to visually confirm what page they are on.
+    o On mobile device the hamburger icon will be used.
+    • The ‘Special offer for training and free first assessment ’ information will be at the top of each
+    page.
+    o It will bring up a pop-up with a simple form that asks for their first name and last name
+    and email address.
+    o A radio button to choose what it will be eg training , development , consulting.
+    o We will include that their email won’t be passed on to anyone else.
+    o We will provide a message once they have successfully completed the form and hit the
+    submit button.
+    • The social links to Facebook, LinkedIn will have roll-over effects and open in a blank window.
+    • On the landing page section there will be 5 block with a short description and if you click on it
+    will take you to either to the product, service or training page
+    • In the footer there will be links to about and Contact and Privacy statement, this will be on all
+    the pages
+    
+    see document for diagram:
+    [Structure Plane](./user-design-experience/Structure_Plane/Structure_Plane.pdf)
+    
+**Note that the  final product there was some changes as the customer was not thet focused on teh privacy statement as it s still working on that also they did not need to to see the need for a pop up on each page.  Als they did not want different color per page as it is not seemed fit for a prefesional company (and was looking more for background pictures to fit IOT and AI (arifical networks).They also wanted an ectra selection on the form as they need to know which field of technology the cusomer was intrested in.   They wanted the sosial media logo as they are going to us it in the future*
+
+
+### Skeleton Plane
+
+#### mockups:
 
 In the links below you can see the mockups that I drew using the mockup tool “Balsamiq”:
 ![Desk top mockup](./user-design-experience/Skeleton_Plane/Desk_Top_Mockup.jpg)
@@ -116,18 +178,6 @@ In the links below you can see the mockups that I drew using the mockup tool “
 
 
 
-### User stories:
-
-Stories:
-- As a customer, I want to know more about bSentient, its owners and capabilities (eg project work on and skills), because I need to decide if they can help me solve my problem or staff my project.
-- As a trainee or training manager, I want to know more about the trainings offered and the presentation medium (eg online or in classes), because I want to determine if any of the courses suit my needs and preferences.
-- As a trainee or training manager, I want to know how the course or material is structured, because I want to determine if any of the courses suit my needs and preferences.
-- As a recruiter, I want to know more about the background of each professional, because I need to determine if the contractor is a good fit for my contracting needs.
-- As a project manager, I want to know more about the fields that bSentient Specialize in, because I need to determine whether bSentient is a suitable partner for my development outsourcing needs.
-- As a customer, I want to read some bSentient success stories, because it gives me confidence that I have a reliable partner.
-- As a customer, I want a example of customers bSentient already helped, because it gives me confidence that I have a reliable partner.
-- As a customer, I want to link up with the owners and contractors via social media for the future, because I need as much information as possible to determine if they are the right partners for me.
-- As a customer, I want to subscribe to the bSentient news feed, because I want to remain aware of new and updated products and trainings.
 
 <h2>Features</h2>
 In this section, you should go over the different parts of your project, and describe each in a sentence or so.
