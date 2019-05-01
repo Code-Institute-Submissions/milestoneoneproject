@@ -60,7 +60,7 @@ Stories:
 
 #### Putting it all in the strategy plane
 see link to document
-[Strategy plane](./user-design-experience/Strategy_Plane/Strategy Plane.pdf)
+[Strategy plane](./user-design-experience/Strategy_Plane/Strategy_Plane.pdf)
 
         Strategy Plane
     What's the target market/culture?
@@ -102,7 +102,7 @@ see link to document
     • How do I contact someone
     o Asking for an assessment of enquiry or/and connecting on social media.
     
-    to see feasibility matrix go to [Strategy plane](./user-design-experience/Strategy_Plane/Strategy Plane.pdf)
+    to see feasibility matrix go to [Strategy plane](./user-design-experience/Strategy_Plane/Strategy_Plane.pdf)
     
 
 ### mockups:
