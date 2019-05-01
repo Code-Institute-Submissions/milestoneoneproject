@@ -7,22 +7,24 @@ The customer also want to see what is the the newest product that they are worki
 
 And if the customer is intrested in Training they need to see when a trainner is availble to book a session.
 
-Click [here](#) to see the website.
+Click [here](https://lemoenskil.github.io/milestoneoneproject/) to see the website.
 
 ## UX
-This website if for the potential and current customer for bSentient The company want to market their capability eg Services and Products via this page.   They would also use this site as comunication with intrested Customers.   And in the event that a customer is intrested in training they want to show their availibilty in a calender.
-The customer want to use this website to gain infromation on bSentient and to enquire about their services and prodocts.
-In the event that the customer want to book a training session they will have the availability to book a time slot.
+This website if for the potential and current customer for bSentient The company want to market their capability eg Services and Products via this page.   They would also use this site as comunication with intrested Customers.   And in the event that a customer is intrested in training they want to make sure that the customer can contact the company. The customer want to use this website to gain infromation on bSentient and to enquire about their services and products.  Also they want to use this website to introduce themselves and their capabilities to guide the user to their linked profile if they have one or busy setting up one.
 
 
-This section is also where you would share links to any wireframes, mockups, diagrams etc. that you created as part of the design process. These files should themselves either be included in the project itself (in an separate directory), or just hosted elsewhere online and can be in any format that is viewable inside the browser.
+###Strategy plane
+- [the assignment from the customer](user-design-experience/Strategy Plane/Create a website for a company bSentient.pdf)
 
 ### mockups:
 
 
 In the links below you can see the mockups that I drew using the mockup tool “Balsamiq”:
+- [Desk top mockup](user-design-experience/Skeleton Plane/Desk Top Mockup.jpg)
+- [Mobile mockup ](https://github.com/elenasacristan/the-monkees-website/tree/master/mockups/ttheband1.png)
+- 
+**Note that the final design has changed from the original design in the mockups. The reason why it has changed is because I was trying different layouts while I was experimenting and learning the code and sometimes the new designs looked better than the original ones or was just more responsive. In the desktop design the block with information was not that dominant which I have changed it the and made bigger and put is on the background picture.   Als have I centered the Main information block and added a madal with a button.  On the mobile design I have added no picture and have just made use of the info block and made sure the button was visable for the user.  I have also replaced the logo at the footer and put the links for contact and sosial media*
 
- ![index](assets/mockups/index.jpg)
 
 
 ### User stories:
@@ -34,8 +36,8 @@ Stories:
 - As a recruiter, I want to know more about the background of each professional, because I need to determine if the contractor is a good fit for my contracting needs.
 - As a project manager, I want to know more about the fields that bSentient Specialize in, because I need to determine whether bSentient is a suitable partner for my development outsourcing needs.
 - As a customer, I want to read some bSentient success stories, because it gives me confidence that I have a reliable partner.
-- As a customer, I want a list of customers bSentient already helped, because it gives me confidence that I have a reliable partner.
-- As a customer, I want to link up with the owners and contractors via social media, because I need as much information as possible to determine if they are the right partners for me.
+- As a customer, I want a example of customers bSentient already helped, because it gives me confidence that I have a reliable partner.
+- As a customer, I want to link up with the owners and contractors via social media for the future, because I need as much information as possible to determine if they are the right partners for me.
 - As a customer, I want to subscribe to the bSentient news feed, because I want to remain aware of new and updated products and trainings.
 
 <h2>Features</h2>

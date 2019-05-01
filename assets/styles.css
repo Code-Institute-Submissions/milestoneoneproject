@@ -418,7 +418,7 @@ footer {
     position: relative;
     width: 100%;
     z-index: 2;
-    display: inline-table;
+    display: inline-block;
     margin: 10% 10% 15% 10%;
 }
 
