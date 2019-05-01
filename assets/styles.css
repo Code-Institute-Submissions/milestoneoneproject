@@ -696,7 +696,7 @@ footer {
     height: 100%;
      }
    
-     .navbar-font {
+    .navbar-font {
     font-family: 'Anton', sans-serif;
     font-weight: 300;
     font-size: 30px;
@@ -704,9 +704,9 @@ footer {
     }
     
     .logo-nav {
-        background: none;
-        background-color:#6B1B12;
-        min-height: 106px;
+    background: none;
+    background-color:#6B1B12;
+    min-height: 106px;
     }
 
     .collapse {
@@ -720,13 +720,9 @@ footer {
     .form-container{
     width: 55%;
     }
-    .callout{
-    display: inline-block;
-    margin: 10px;
-    }
-    .block-info{
+   /* .block-info{
     padding: 0px;
-    }
+    }*/
     .heading-title{
     font-family: "Maven Pro", Sans-serif;
     font-size: 50px;
@@ -745,16 +741,14 @@ footer {
     height:450px;
     }
     .v-title{
-        font-size: 30px;
-        line-height: 40px;
+    font-size: 30px;
+    line-height: 40px;
     }
 }    
 
-/*@media(min-width: 1427px){
-    .v-stand-alone iframe,
-    .v-stand-alone object,
-    .v-stand-alone embed {
-    height:550px;
+@media(min-width: 1024px){
+    .callout{
+    display: inline-block;
+    margin: 10px;
     }
 }
-*/
