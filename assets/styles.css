@@ -590,16 +590,27 @@ footer {
     font-weight: normal;
     line-height: 23px;
     letter-spacing: 1px;
-    color: #ffffff;
+    color: #ffff66;
+    position: relative;
+}
+
+.opaque-overlay-sa {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    background-color: rgba(160, 179, 157, 0.44);
 }
 
 .v-content{
     font-family: "Maven Pro", Sans-serif;
     font-size: 18px;
     font-weight: normal;
-    line-height: 15px;
+    line-height: 18px;
     letter-spacing: 1px;
-    color: #ffffff;
+    color: #ffff66;
+    position: relative;
 }
 
 .container-staraid {
