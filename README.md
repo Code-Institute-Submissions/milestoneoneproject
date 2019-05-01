@@ -14,8 +14,96 @@ This website if for the potential and current customer for bSentient The company
 
 
 ### Strategy plane
+see link to document
+[the assignment](./user-design-experience/Strategy_Plane/Create_a_website_for_a_company_bSentient.pdf)
 
-![the assignment](./user-design-experience/Strategy_Plane/Create_a_website_for_a_company_bSentient.pdf)
+## Create a website for a Engineering Consulting Company bSentient
+    
+    Build a static (front-end only) website for Engineering Consulting Company bSentient. As a starting
+    point, you may want to use wireframes, as we did in the UX lesson (you can use Balsamiq or any other
+    tool, including just pen and paper). You can use either your assets or the assets provided by bSentient.
+    The Company is a startup that has just launch one in-house product and they are looking to get more
+    exposure on their expertise and services that they have to offer.
+    You have been given the following requirements after interviews with the client’s representatives:
+    • Their primary target audiences are their customers and potential customer who wish to use the
+    site to see what they have to offer in their field of expertise.
+    • target customer by dummy newsletter/contact form
+    -Also, the company would like to use the site to showcase their fields of expertise
+    • a link to their current product web shop / video page
+    • a page to show case training and where the customer can download some training material
+    • Contact us page with contact form name/email/different topic enquiries
+    The band has provided you, the developer, with the following assets that they would like to show case on
+    their website:
+    • Photos of the consultant
+    • A video clip
+    • Content:
+    -about the
+    -Information on their development services
+    -information on their consulting services
+    -information on their training
+    • Power point presentation on training that can be downloaded for free
+    • Also, they are in the process of creating a social media presence and would like to add links to
+    their Facebook, Twitter pages.
+    They also want you to add the personal linked link to the consultant LinkedIn profiles
+    
+## User stories:
+Stories:
+- As a customer, I want to know more about bSentient, its owners and capabilities (eg project work on and skills), because I need to decide if they can help me solve my problem or staff my project.
+- As a trainee or training manager, I want to know more about the trainings offered and the presentation medium (eg online or in classes), because I want to determine if any of the courses suit my needs and preferences.
+- As a trainee or training manager, I want to know how the course or material is structured, because I want to determine if any of the courses suit my needs and preferences.
+- As a recruiter, I want to know more about the background of each professional, because I need to determine if the contractor is a good fit for my contracting needs.
+- As a project manager, I want to know more about the fields that bSentient Specialize in, because I need to determine whether bSentient is a suitable partner for my development outsourcing needs.
+- As a customer, I want to read some bSentient success stories, because it gives me confidence that I have a reliable partner.
+- As a customer, I want a example of customers bSentient already helped, because it gives me confidence that I have a reliable partner.
+- As a customer, I want to link up with the owners and contractors via social media for the future, because I need as much information as possible to determine if they are the right partners for me.
+- As a customer, I want to subscribe to the bSentient news feed, because I want to remain aware of new and updated products and trainings.
+
+## Putting it all in the strategy plane
+see link to document
+[Strategy plane](./user-design-experience/Strategy_Plane/Strategy Plane.pdf)
+
+        Strategy Plane
+    What's the target market/culture?
+    User are usually going to be from B2B, project managers, entrepreneurs looking for technology solutions. They will
+    be in the front end of embedded, IOT and open source or they want a product that will be high-tech. The
+    demography can be men and woman from all ages they are interested or working in the high-tech industry or are
+    interested to create a IOT, embedded product or want to hire in consultant to create a product.
+    Why is this so special?
+    That customer/ potential customers be able to make enquiry about the company when they have a
+    product that need to be developed. That customer/ potential customers be able to take up contact with
+    the company about the training and that they can download free training material.
+    Why would a user want this?
+    IOT is a hot topic and there are a huge demand for the know how, in either product development,
+    training or consulting. The user will want to have a clear picture on what they offer as solution. This
+    site will be the gateway to access information on the company and the consultant’s capabilities. Also
+    link the customer to a in house product that they have developed. Linked them to the linked in profiles
+    of the consultant.
+    What makes a good bSentient experience?
+    • Reading about their services on offer.
+    • Watching their videos of their product.
+    • Seeing free training material.
+    • Connecting with the consultant.
+    o Connect on linked, Facebook
+    What does the user expect?
+    • What is this?
+    o The expertise needs to be prominent. Example Embedded, IOT and Open Source…..
+    • Is this what I expected to see?
+    o Logo, high-tech feel and look with futuristic fond for heading and networks pictures
+    showing connectivity. Also space/ stars to be used for the one product that they have
+    developed
+    • Does it offer what I want?
+    o Videos, downloads, testimonials, blogs contact form and special offers.
+    • Does it valuable enough to stay?
+    o Content (free downloads and the special offer requests) will compel them to stay.
+    • What actions can I take now?
+    o Free assessment (can be achieved with pop-up form)..
+    o Contact us.(on a Contact us page).
+    o Connect with them on social media (NB Ought to be in a new _blank window).
+    • How do I contact someone
+    o Asking for an assessment of enquiry or/and connecting on social media.
+    
+    to see feasibility matrix go to [Strategy plane](./user-design-experience/Strategy_Plane/Strategy Plane.pdf)
+    
 
 ### mockups:
 
