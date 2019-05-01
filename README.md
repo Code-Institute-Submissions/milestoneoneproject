@@ -1,4 +1,4 @@
-# bSentient Web page
+###### bSentient Web page
 
 This website will be used mainly by prospective customers of bSentient.  To the customer it is important to see what bSentient has to offer,  read about current bussines, products and services.  
 
@@ -9,15 +9,15 @@ And if the customer is intrested in Training they need to see when a trainner is
 
 Click [here](https://lemoenskil.github.io/milestoneoneproject/) to see the website.
 
-## UX
+##### UX
 This website if for the potential and current customer for bSentient The company want to market their capability eg Services and Products via this page.   They would also use this site as comunication with intrested Customers.   And in the event that a customer is intrested in training they want to make sure that the customer can contact the company. The customer want to use this website to gain infromation on bSentient and to enquire about their services and products.  Also they want to use this website to introduce themselves and their capabilities to guide the user to their linked profile if they have one or busy setting up one.
 
 
-### Strategy plane
+#### Strategy plane
 see link to document
 [the assignment](./user-design-experience/Strategy_Plane/Create_a_website_for_a_company_bSentient.pdf)
 
-## Create a website for a Engineering Consulting Company bSentient
+### Create a website for a Engineering Consulting Company bSentient
     
     Build a static (front-end only) website for Engineering Consulting Company bSentient. As a starting
     point, you may want to use wireframes, as we did in the UX lesson (you can use Balsamiq or any other
@@ -46,7 +46,7 @@ see link to document
     their Facebook, Twitter pages.
     They also want you to add the personal linked link to the consultant LinkedIn profiles
     
-## User stories:
+### User stories:
 Stories:
 - As a customer, I want to know more about bSentient, its owners and capabilities (eg project work on and skills), because I need to decide if they can help me solve my problem or staff my project.
 - As a trainee or training manager, I want to know more about the trainings offered and the presentation medium (eg online or in classes), because I want to determine if any of the courses suit my needs and preferences.
@@ -58,7 +58,7 @@ Stories:
 - As a customer, I want to link up with the owners and contractors via social media for the future, because I need as much information as possible to determine if they are the right partners for me.
 - As a customer, I want to subscribe to the bSentient news feed, because I want to remain aware of new and updated products and trainings.
 
-## Putting it all in the strategy plane
+### Putting it all in the strategy plane
 see link to document
 [Strategy plane](./user-design-experience/Strategy_Plane/Strategy Plane.pdf)
 
