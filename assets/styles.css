@@ -746,7 +746,7 @@ footer {
     }
 }    
 
-@media(min-width: 1024px){
+@media(min-width: 1440px){
     .callout{
     display: inline-block;
     margin: 10px;
