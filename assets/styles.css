@@ -416,7 +416,7 @@ footer {
 
 .container{
     position: relative;
-    width: auto;
+    width: 100%;
     z-index: 2;
     display: inline-table;
     margin: 10% 10% 15% 10%;
