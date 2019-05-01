@@ -21,8 +21,8 @@ This website if for the potential and current customer for bSentient The company
 
 
 In the links below you can see the mockups that I drew using the mockup tool “Balsamiq”:
-![Desk top mockup](/Skeleton Plane/Desk Top Mockup.jpg)
-![Mobile mockup](user-design-experience/Skeleton Plane/Mobile mockup.jpg)
+![Desk top mockup](./user-design-experience/Skeleton_Plane/Desk_Top_Mockup.jpg)
+![Mobile mockup](./user-design-experience/Skeleton_Plane/Mobile_mockup.jpg)
 - 
 **Note that the final design has changed from the original design in the mockups. The reason why it has changed is because I was trying different layouts while I was experimenting and learning the code and sometimes the new designs looked better than the original ones or was just more responsive. In the desktop design the block with information was not that dominant which I have changed it the and made bigger and put is on the background picture.   Als have I centered the Main information block and added a madal with a button.  On the mobile design I have added no picture and have just made use of the info block and made sure the button was visable for the user.  I have also replaced the logo at the footer and put the links for contact and sosial media*
 
