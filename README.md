@@ -15,7 +15,7 @@ This website if for the potential and current customer for bSentient The company
 
 ### Strategy plane
 
-![the assignment from the customer](user-design-experience/Strategy Plane/Create a website for a company bSentient.pdf)
+![the assignment](user-design-experience/Strategy Plane/Create a website for a company bSentient.pdf)
 
 ### mockups:
 
