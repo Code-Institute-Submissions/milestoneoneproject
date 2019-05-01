@@ -102,7 +102,7 @@ see link to document
     • How do I contact someone
     o Asking for an assessment of enquiry or/and connecting on social media.
     
-    to see feasibility matrix go to 
+    **to see feasibility matrix go to*
     [Strategy plane](./user-design-experience/Strategy_Plane/Strategy_Plane.pdf)
     
 ### Scope Plane
@@ -128,8 +128,8 @@ see link to document
     • A marketing slogan where there is a special on training eg if you book now or a free quote for a
     Product development project
     
-    See senario and requirements match in document see link
-    [Scope Plane](./user-design-experience/Scope_Plane/Scope_Plane.pdf)
+    **See senario and requirements match in document see link*
+[Scope Plane](./user-design-experience/Scope_Plane/Scope_Plane.pdf)
 
 ### Structure Plane
 see link to document
@@ -160,8 +160,8 @@ see link to document
     • In the footer there will be links to about and Contact and Privacy statement, this will be on all
     the pages
     
-    see document for diagram:
-    [Structure Plane](./user-design-experience/Structure_Plane/Structure_Plane.pdf)
+    **see document for diagram:*
+[Structure Plane](./user-design-experience/Structure_Plane/Structure_Plane.pdf)
     
 **Note that the  final product there was some changes as the customer was not thet focused on teh privacy statement as it s still working on that also they did not need to to see the need for a pop up on each page.  Als they did not want different color per page as it is not seemed fit for a prefesional company (and was looking more for background pictures to fit IOT and AI (arifical networks).They also wanted an ectra selection on the form as they need to know which field of technology the cusomer was intrested in.   They wanted the sosial media logo as they are going to us it in the future*
 
