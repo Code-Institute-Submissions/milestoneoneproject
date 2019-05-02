@@ -441,6 +441,14 @@ footer {
         -webkit-transition: all 1s ease-in-out;
 }
 
+.container{
+    position: relative;
+    width: auto;
+    z-index: 2;
+    display: inline-block;
+    margin: 10% 5% 15% 5%;
+}
+
 .z-image{
     background: url("images/Zofia.jpg");
     width: 100%;
