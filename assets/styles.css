@@ -347,9 +347,7 @@ footer {
     font-weight: 100px;
 }
 
-/*.bottom-spacing{*/
-/*    margin-bottom: -5px;*/
-/*}*/
+
 
 /** ...........................................................Contact.html......................**/
 
@@ -397,12 +395,13 @@ footer {
     padding:30px;
 }
 
-.container{
+.container-services{
     position: relative;
-    width: 100%;
+    width: 90%;
     z-index: 2;
     display: inline-block;
-    margin: 10% 10% 15% 10%;
+    margin: 10% 0px 15% 0px;
+    padding: 0px;
 }
 
 .opaque-overlay-grid {
