@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Roboto: 100,200,300,400,500,600,700|Anton: 300,400,500');
+@import url('https://fonts.googleapis.com/css?family=Roboto: 100,200,300,400,500,600,700|Anton: 300,400,500'|Maven Pro:100,200,300,400,500,600,700);
 
 
 /*------------------------------FF3C38---------------------------------------Colours------------- #262626 --black  #113462 dark blue  #454955 light grey  #6B1B12 dark organge*/
@@ -229,7 +229,7 @@ button{
     font-weight: 300;
     letter-spacing: 2px;
 }
-/*---------------------------------------------------------------------Section--------------*/
+/*---------------------------------------------------------------------Index.Section--------------*/
 
 #section-background-1 {
     background: url("images/dreamstimemaximum_140964942_mobilebackground.jpg");
@@ -268,26 +268,9 @@ button{
     border: 0;
 }
 
-/*.padding-section {
-    padding-bottom: 20px;
-    padding-top: 20px;
+.carousel-indicators{
+    margin-bottom: 0px !important;
 }
-
-.wrapper{
-    text-align: center;
-    width: 100%;
-}*/
-
-/*.text-style-into-block{
-    margin: 0;
-}
-
-.align-help{
-    text-align: center;
-    width: 100%;
-    display: block
-    
-}*/
 
 .row{
     margin: 0px;
@@ -677,8 +660,10 @@ footer {
     }
     
     .intro-block{
-        width: 19%;
-        margin-bottom: 30px;
+        width: 400px;
+        margin-bottom: 10px;
+        height: 85%;
+        display:inline-block;
     }
 
     html, body {
@@ -721,6 +706,10 @@ footer {
     font-size: 27px;
     line-height: 34px;
     }
+    .carousel-inner{
+    height: 400px
+    }
+
 }    
 
 @media(min-width: 1440px){

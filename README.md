@@ -177,28 +177,73 @@ In the links below you can see the mockups that I drew using the mockup tool “
 **Note that the final design has changed from the original design in the mockups. The reason why it has changed is because I was trying different layouts while I was experimenting and learning the code and sometimes the new designs looked better than the original ones or was just more responsive. In the desktop design the block with information was not that dominant which I have changed it the and made bigger and put is on the background picture.   Als have I centered the Main information block and added a madal with a button.  On the mobile design I have added no picture and have just made use of the info block and made sure the button was visable for the user.  I have also replaced the logo at the footer and put the links for contact and sosial media*
 
 
+## Features
+
+### Existing Features
+#### Feature 1 - Navigation bar
+The navigation bar allows users to navigate the site by clicking on links to other pages or the sign up modal.
+This collapses to a 'burger icon' dropdown menu in mobile screen sizes to reduce over-crowding and improve user experience.
+
+#### Feature 2 - Sign up to newsletter link 
+The sign up link implements a modal in the same page when clicked on. This allows users to sign up to the band's email newsletter
+by entering their email and pressing submit. The form checks for a valid email address before allowing submission and closes upon successful submission or clicking outside the modal area.
+This link is available in the fixed footer on large and medium screen sizes and moves to the fixed navigation at top of page in mobile.
+to make it more visually pleasing and avoid over crowding in mobile view. 
+The sign up link can also be accessed from the "Never miss the news again!" banner on the home page.
+The link displays an underline when hovered on (in all locations: nav,footer and main page) in desktop to indicate it is a link and for consistency.
+
+#### Feature 3 - Embedded video link
+A 'latest video' is embedded into the homepage which users can press play and pause on at any time to view
+
+#### Feature 4 - Large hero image with 'Book the band' title and link to book page
+This feature is emphasised on the home page with its large and constrasting background image. The link itself bolds (font weight increases)
+when hovered over (on desktop) to indicate it is a link. This link will take the user to the book page in the same browser window where they
+can fill out the query form or check the calendar for the band's availability.
+
+#### Feature 5 - Social media links in footer
+The fixed footer displays links to facebook, twitter and youtube channels for the band. The icons are from FontAwesome and change 
+color when hovered over to indicate they are a link.
+These icons remain to the right of the footer on larger screen sizes and move to the center for prominence in mobile view.
+When clicked on these links take the user to external social media sites in a new tab. 
+
+#### Feature 6 - Carousel of images of the band at top of 'About' page
+These large images display black and white photographs of the band to capture attention.
+Users can let the carousel play or select the left and right glyphicons or the navigation dots beneath the images to move through the carousel.
+
+#### Feature 7 - Embedded audio files on 'music' page
+Four songs from The Monkees are embedded in the 'Music' page which users can choose to play and pause at any time to listen
+to a selection of hits from the band.
+
+#### Feature 8 - 'Contact Us' form on 'Book' page
+This form allows users to submit a query by filling out the email, contact number and query fields and submit their enquiry.
+The form checks for a valid email address when entered and all fields are required (the enquiry cannot be submitted unless all fields are completed).
+The number field input is also restricted to number entries only. 
+
+#### Feature 9 - Calendar of availability on 'Book' page
+This is a calendar created with HTML and CSS. It is not currently interactive and the two month view merely allows users to check
+if the band is available on certain dates (as unavailable dates are blocked out in contrasting pink colour).
 
 
-<h2>Features</h2>
-In this section, you should go over the different parts of your project, and describe each in a sentence or so.
+### Features Left to Implement
+#### Feature 1 - Add functionality to calendar
+I would like to add javascript functionality to the calendar so the user can change from month to month and click on individual days to see
+if it is available and if not to see why not - i.e "booked for private event" or similar.
 
-<h4>Existing Features</h4>
-Feature 1 - allows users X to achieve Y, by having them fill out Z
-...
-For some/all of your features, you may choose to reference the specific project files that implement them, although this is entirely optional.
+#### Feature 2 - Merchandise feature
+Current music page only plays samples. Would be better to have official merchandise shop element here underneath or add a link to Amazon or another retailer
+so users can buy the records after listening.
 
-In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
+#### Feature 3 - Sign up modal and contact form
+The addition of a thank you message would benefit the user here. i.e "Thank you, your enquiry has been submitted."
 
-<h4>Features Left to Implement</h4>
-Another feature idea
 
-<h2>Technologies Used</h2>
-In this section, you should mention all of the languages, frameworks, libraries, and any other tools that you have used to construct this project. For each, provide its name, a link to its official site and a short sentence of why it was used.
+## Technologies Used
 
-JQuery
-The project uses JQuery to simplify DOM manipulation.
+**GoogleFonts:** I have used Bangers and Cuprum and I have added the following code in the Style.css file.
+    @import url('https://fonts.googleapis.com/css?family=Roboto: 100,200,300,400,500,600,700|Anton: 300,400,500'|Maven Pro:100,200,300,400,500,600,700);`
 
-<h2>Testing</h2>
+
+## Testing
 In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your user stories from the UX section and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
 
 Whenever it is feasible, prefer to automate your tests, and if you've done so, provide a brief explanation of your approach, link to the test file(s) and explain how to run them.
@@ -216,7 +261,7 @@ You should also mention in this section any interesting bugs or problems you dis
 
 If this section grows too long, you may want to split it off into a separate file and link to it from here.
 
-<h2>Deployment</h2>
+## Deployment
 This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub Pages or Heroku).
 
 In particular, you should provide all details of the differences between the deployed version and the development version, if any, including:
@@ -227,7 +272,7 @@ Separate git branch?
 In addition, if it is not obvious, you should also describe how to run your code locally.
 
 ## Credits
-- Content
+###- Content
 The text for section Y was copied from the Wikipedia article Z
 - Media
 - 
@@ -239,5 +284,5 @@ The text for section Y was copied from the Wikipedia article Z
    
    ID 50626138 © Maciek905 - Dreamstime.com
 
-- Acknowledgements
+### Acknowledgements
 I received inspiration for this project from X
