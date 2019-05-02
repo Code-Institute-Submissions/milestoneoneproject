@@ -174,48 +174,38 @@ In the links below you can see the mockups that I drew using the mockup tool “
 ![Desk top mockup](./user-design-experience/Skeleton_Plane/Desk_Top_Mockup.jpg)
 ![Mobile mockup](./user-design-experience/Skeleton_Plane/Mobile_mockup.jpg)
 - 
-**Note that the final design has changed from the original design in the mockups. The reason why it has changed is because I was trying different layouts while I was experimenting and learning the code and sometimes the new designs looked better than the original ones or was just more responsive. In the desktop design the block with information was not that dominant which I have changed it the and made bigger and put is on the background picture.   Als have I centered the Main information block and added a madal with a button.  On the mobile design I have added no picture and have just made use of the info block and made sure the button was visable for the user.  I have also replaced the logo at the footer and put the links for contact and sosial media*
+**Note that the final design has changed from the original design in the mockups. The reason why it has changed is because I was trying different layouts while I was experimenting and learning the code and sometimes the new designs looked better than the original ones or was just more responsive. In the desktop design the block with information was not that dominant which I have changed it the and made bigger and put is on the background picture with a carousel.   Als have I centered the Main information block and added a madal with a button.  On the mobile design I have added no picture and have just made use of the info block and made sure the button was visable for the user.  I have also replaced the logo at the footer and put the links for contact and sosial media*
 
 
 ## Features
 
 ### Existing Features
 #### Feature 1 - Navigation bar
-The navigation bar allows users to navigate the site by clicking on links to other pages or the sign up modal.
-This collapses to a 'burger icon' dropdown menu in mobile screen sizes to reduce over-crowding and improve user experience.
+The navigation bar allows users to navigate the site by clicking on links to other pages.  Clicking on the Logo will also take you back to the homepage.  On the the Navgation is also Brand name if you hover over it will change color
+The aler bar also takes you to the contact page.  Then the collapses 'burger icon' dropdown menu in mobile screen sizes to reduce over-crowding and improve user experience.
 
-#### Feature 2 - Sign up to newsletter link 
-The sign up link implements a modal in the same page when clicked on. This allows users to sign up to the band's email newsletter
-by entering their email and pressing submit. The form checks for a valid email address before allowing submission and closes upon successful submission or clicking outside the modal area.
-This link is available in the fixed footer on large and medium screen sizes and moves to the fixed navigation at top of page in mobile.
-to make it more visually pleasing and avoid over crowding in mobile view. 
-The sign up link can also be accessed from the "Never miss the news again!" banner on the home page.
-The link displays an underline when hovered on (in all locations: nav,footer and main page) in desktop to indicate it is a link and for consistency.
+#### Feature 2 - Jumbothron 
+Jumbothron with transparent background has in the top section of the landing page. A button modal with a form
 
-#### Feature 3 - Embedded video link
-A 'latest video' is embedded into the homepage which users can press play and pause on at any time to view
+#### Feature 3 - Carousel of images of the band at top of 'About' page
+These large blok display different block of what the company can do.
+Users can let the carousel play or select the left and right or the navigation dots beneath the images to move through the carousel.
 
-#### Feature 4 - Large hero image with 'Book the band' title and link to book page
-This feature is emphasised on the home page with its large and constrasting background image. The link itself bolds (font weight increases)
-when hovered over (on desktop) to indicate it is a link. This link will take the user to the book page in the same browser window where they
-can fill out the query form or check the calendar for the band's availability.
+#### Feature 4 - Embedded video link
+A 'video' is embedded into the product page  which users can press play and pause on at any time to view
 
-#### Feature 5 - Social media links in footer
-The fixed footer displays links to facebook, twitter and youtube channels for the band. The icons are from FontAwesome and change 
-color when hovered over to indicate they are a link.
-These icons remain to the right of the footer on larger screen sizes and move to the center for prominence in mobile view.
-When clicked on these links take the user to external social media sites in a new tab. 
+#### Feature 5 - Small  images with 'sosial media link and email link to contact'
+This is a gallary of the owners with a link to linked in and a email adress some of the owners do not have a linked profile yet
 
-#### Feature 6 - Carousel of images of the band at top of 'About' page
-These large images display black and white photographs of the band to capture attention.
-Users can let the carousel play or select the left and right glyphicons or the navigation dots beneath the images to move through the carousel.
+#### Feature 6 - Social media links in footer and contact icon
+The footer at the bottom of the page has for mobile display only the links and the contact us on which has a hovering color change.
+In desktop mode the footer has a logo which link you back to the home page.
 
-#### Feature 7 - Embedded audio files on 'music' page
-Four songs from The Monkees are embedded in the 'Music' page which users can choose to play and pause at any time to listen
-to a selection of hits from the band.
+#### Feature 7 - Sign up modal and contact form
+The home page has a modal with a contact us where a form appers
 
-#### Feature 8 - 'Contact Us' form on 'Book' page
-This form allows users to submit a query by filling out the email, contact number and query fields and submit their enquiry.
+#### Feature 8 - 'Contact Us' form on 'contact' page
+This form allows users to submit a query by filling out the email, contact number and selection field and a radio button fields and submit their enquiry.
 The form checks for a valid email address when entered and all fields are required (the enquiry cannot be submitted unless all fields are completed).
 The number field input is also restricted to number entries only. 
 
