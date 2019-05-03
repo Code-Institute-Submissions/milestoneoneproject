@@ -206,25 +206,14 @@ The home page has a modal with a contact us where a form appers
 
 #### Feature 8 - 'Contact Us' form on 'contact' page
 This form allows users to submit a query by filling out the email, contact number and selection field and a radio button fields and submit their enquiry.
-The form checks for a valid email address when entered and all fields are required (the enquiry cannot be submitted unless all fields are completed).
-The number field input is also restricted to number entries only. 
+The form checks for a valid email address, first and last name when entered fields are required (the enquiry cannot be submitted unless these fields are completed).
 
-#### Feature 9 - Calendar of availability on 'Book' page
-This is a calendar created with HTML and CSS. It is not currently interactive and the two month view merely allows users to check
-if the band is available on certain dates (as unavailable dates are blocked out in contrasting pink colour).
-
+#### Feature 9 - 'download power point on new page'
+On the training page you get a link where you can download a presentation
 
 ### Features Left to Implement
-#### Feature 1 - Add functionality to calendar
-I would like to add javascript functionality to the calendar so the user can change from month to month and click on individual days to see
-if it is available and if not to see why not - i.e "booked for private event" or similar.
-
-#### Feature 2 - Merchandise feature
-Current music page only plays samples. Would be better to have official merchandise shop element here underneath or add a link to Amazon or another retailer
-so users can buy the records after listening.
-
-#### Feature 3 - Sign up modal and contact form
-The addition of a thank you message would benefit the user here. i.e "Thank you, your enquiry has been submitted."
+#### Feature 1 - Add links to small jumbothrons in landing page 
+Would put in pictures and links to the service page in this carousel..
 
 
 ## Technologies Used
