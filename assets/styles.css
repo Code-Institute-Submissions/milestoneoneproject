@@ -1,11 +1,7 @@
-@import url('https://fonts.googleapis.com/css?family=Roboto: 100,200,300,400,500,600,700|Anton: 300,400,500'|Maven Pro:100,200,300,400,500,600,700);
+@import url('https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500,600,700|Anton:300,400,500|Maven Pro:100,200,300,400,500,600,700');
 
 
-/*------------------------------FF3C38---------------------------------------Colours------------- #262626 --black  #113462 dark blue  #454955 light grey  #6B1B12 dark organge*/
-/*.text-color-sextion {*/
-/*    color: #ffff66;*/
-/*}*/
-
+/*------------------------------------------------------------------Colours------------- */
 .navbar-font{
     color: #FF3C38;
 }
@@ -344,7 +340,7 @@ footer {
     padding-top: 20px;
     font-family: 'Roboto', sans-serif;
     font-size: 25px;
-    font-weight: 100px;
+    font-weight: 100;
 }
 
 
