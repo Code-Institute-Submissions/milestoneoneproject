@@ -245,31 +245,16 @@ Testing the website page by page, checking every feature in all possible screen 
 
 See attached sheet made for testing the responsiveness for mobile to desktop
 
-Click [here](https:Testing/Responsivness test.pdf) to see the list use to test the responsiveness
+Click [here](https://github.com/Lemoenskil/milestoneoneproject/blob/master/Testing/Responsivnesstest.pd) to see the list use to test the responsiveness
 
-Click [here](https://github.com/elenasacristan/the-monkees-website/tree/master/Documents/Check-list.pdf)
+### Additional testing
+Used development tools in Google Chrome to check how the website would look in different devices. Also used it to try different style and ideas.   
+Also did intensive testing on links.    Also checked the form on the contact page if the required field did their job
 
+### Problems and bugs:
+- Had bugs and problems with padding and margin where it went to creative and had overflow on the sides.  Als had bugg where my div did not allign up properly   I also had to call in the help of a tutur which help me
+- to use the !Important function to overwrite bootstrap settings..
 
-
-
-
-.
-In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your user stories from the UX section and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
-
-Whenever it is feasible, prefer to automate your tests, and if you've done so, provide a brief explanation of your approach, link to the test file(s) and explain how to run them.
-
-For any scenarios that have not been automated, test the user stories manually and provide as much detail as is relevant. A particularly useful form for describing your testing process is via scenarios, such as:
-
-Contact form:
-Go to the "Contact Us" page
-Try to submit the empty form and verify that an error message about the required fields appears
-Try to submit the form with an invalid email address and verify that a relevant error message appears
-Try to submit the form with all inputs valid and verify that a success message appears.
-In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
-
-You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
-
-If this section grows too long, you may want to split it off into a separate file and link to it from here.
 
 ## Deployment
 This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub Pages or Heroku).
