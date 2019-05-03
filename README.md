@@ -240,7 +240,20 @@ Would put in pictures and links to the service page in this carousel..
 - Used https://jigsaw.w3.org/css-validator/ in order to validate the CSS code.
 After running the validation there was a few errors typos, obsolete and wrong attributes,...). there was also warnings which i mostly ignored.
 
+### Features and responsiveness testing
+Testing the website page by page, checking every feature in all possible screen sizes.
 
+See attached sheet made for testing the responsiveness for mobile to desktop
+
+Click [here](https:Testing/Responsivness test.pdf) to see the list use to test the responsiveness
+
+Click [here](https://github.com/elenasacristan/the-monkees-website/tree/master/Documents/Check-list.pdf)
+
+
+
+
+
+.
 In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your user stories from the UX section and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
 
 Whenever it is feasible, prefer to automate your tests, and if you've done so, provide a brief explanation of your approach, link to the test file(s) and explain how to run them.
