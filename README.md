@@ -223,7 +223,7 @@ Would put in pictures and links to the service page in this carousel..
 - HTML5
 - CSS3
 - Bootstrap
-- Microsoft office (to draw up UX )
+- Microsoft office (to draw up UX and excel )
 - Adobe (convert to )
 - Font awsome
 - GIT
@@ -238,9 +238,9 @@ Would put in pictures and links to the service page in this carousel..
 
 - Used https://validator.w3.org/ in order to validate the HTML code.
 - Used https://jigsaw.w3.org/css-validator/ in order to validate the CSS code.
+After running the validation there was a few errors typos, obsolete and wrong attributes,...). there was also warnings which i mostly ignored.
 
 
-After running the validation I found several errors (i.e. typos, obsolete and wrong attributes, duplicated attributes, duplicated code...). I also found some warnings but most of them were actually correct code and they could be ignored.
 In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your user stories from the UX section and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
 
 Whenever it is feasible, prefer to automate your tests, and if you've done so, provide a brief explanation of your approach, link to the test file(s) and explain how to run them.

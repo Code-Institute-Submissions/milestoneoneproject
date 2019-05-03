@@ -442,6 +442,8 @@ footer {
     z-index: 2;
     display: inline-block;
     margin: 10% 5% 15% 5%;
+    padding-left: 0px;
+    padding-right:0px;
 }
 
 .z-image{
