@@ -218,9 +218,19 @@ Would put in pictures and links to the service page in this carousel..
 
 ## Technologies Used
 
-**GoogleFonts:** I have used Bangers and Cuprum and I have added the following code in the Style.css file.
-    @import url('https://fonts.googleapis.com/css?family=Roboto: 100,200,300,400,500,600,700|Anton: 300,400,500'|Maven Pro:100,200,300,400,500,600,700);`
-
+- GoogleFonts
+- Balsamiq
+- HTML5
+- CSS3
+- Bootstrap
+- Microsoft office (to draw up UX )
+- Adobe (convert to )
+- Font awsome
+- GIT
+- GITHUB
+- Google Chrome developer tools
+- Cloud 9 IDE
+- Javascript and JQuery.
 
 ## Testing
 In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your user stories from the UX section and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
