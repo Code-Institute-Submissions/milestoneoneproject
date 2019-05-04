@@ -257,14 +257,7 @@ Also did intensive testing on links.    Also checked the form on the contact pag
 
 
 ## Deployment
-This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub Pages or Heroku).
-
-In particular, you should provide all details of the differences between the deployed version and the development version, if any, including:
-
-Different values for environment variables (Heroku Config Vars)?
-Different configuration files?
-Separate git branch?
-In addition, if it is not obvious, you should also describe how to run your code locally.
+Website was coded in the Cloud 9 IDE, a local GIT directory was used for version control and then uploaded to GITHUB using Bash script. Once in a GITHUB repositories it was made live using GITHUB Pages. The website can be found at: https://github.com/Lemoenskil/milestoneoneproject/
 
 ## Credits
 ###- Content
