@@ -260,17 +260,44 @@ Also did intensive testing on links.    Also checked the form on the contact pag
 Website was coded in the Cloud 9 IDE, a local GIT directory was used for version control and then uploaded to GITHUB using Bash script. Once in a GITHUB repositories it was made live using GITHUB Pages. The website can be found at: https://github.com/Lemoenskil/milestoneoneproject/
 
 ## Credits
-###- Content
-The text for section Y was copied from the Wikipedia article Z
-- Media
+
+### Content
+Took content on training.html form webpage https://objectcomputing.com/services/software-engineering/resources/5-reasons-to-transition-to-open-source.   And the content of product.html form the website https://staraid.ai/
+
+### Media
+Video used are on youtoube and website website https://staraid.ai/
 - 
-**Photos used**:
+### Photos used:
+Pictures used for background
+Credit information for each image in this collection is listed below. Simply match the image ID numbers below to the ID number in the image file name to credit the proper image.
+More about usage rights can be found here:
+https://www.dreamstime.com/terms#using
 
-   ID 111718113 © Vs1489 | Dreamstime.com
+- Image ID: 140964942
+    Copyright Siarhei Yurchanka | Dreamstime.com
+    https://www.dreamstime.com/yur4you_info
+    
+- Image ID: 134781260
+    Copyright Siarhei Yurchanka | Dreamstime.com
+    https://www.dreamstime.com/yur4you_info
+    
+- Image ID: 111718113
+    Copyright Vs1489 | Dreamstime.com
+    https://www.dreamstime.com/vs1489_info
 
-   ID 134781260 © Siarhei Yurchanka | Dreamstime.com
-   
-   ID 50626138 © Maciek905 - Dreamstime.com
+- Image ID: 96999098
+    Copyright Allexxandar | Dreamstime.com
+    https://www.dreamstime.com/allexxandar_info
+
+### Download
+for business canse comes form the customer Signigy
+
+### Work based on other code
+the desktop navbar was re-used from the mini-project,
+the jumbothron was used for the wiskey drop-project
 
 ### Acknowledgements
-I received inspiration for this project from X
+Thanks to my husband for playing the customer
+Also familie and friend giving feedback on the UX
+Also thanks to my mentor Spencer helping my put some order in chaos
+and thanks to the tuturs helping me with the hamburger menu and background pictures
