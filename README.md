@@ -163,7 +163,7 @@ see link to document
     **see document for diagram:*
 [Structure Plane](./user-design-experience/Structure_Plane/Structure_Plane.pdf)
     
-**Note that the  final product there was some changes as the customer was not thet focused on teh privacy statement as it s still working on that also they did not need to to see the need for a pop up on each page.  Als they did not want different color per page as it is not seemed fit for a prefesional company (and was looking more for background pictures to fit IOT and AI (arifical networks).They also wanted an ectra selection on the form as they need to know which field of technology the cusomer was intrested in.   They wanted the sosial media logo as they are going to us it in the future*
+**Note that  on the final product there was some changes as the customer was not thet focused on the privacy statement as it s still working on that.  Also they did not need to  see the  a pop up on each page.  Als they did not want different color per page as it is not seemed fit for a prefesional company (and was looking more for background pictures to fit IOT and AI (arifical networks).They also wanted an creteria selection on the form as they need to know which field of technology the cusomer was intrested in.   They wanted the sosial media logo as they are going to us it in the future*
 
 
 ### Skeleton Plane
@@ -174,7 +174,7 @@ In the links below you can see the mockups that I drew using the mockup tool “
 ![Desk top mockup](./user-design-experience/Skeleton_Plane/Desk_Top_Mockup.jpg)
 ![Mobile mockup](./user-design-experience/Skeleton_Plane/Mobile_mockup.jpg)
 - 
-**Note that the final design has changed from the original design in the mockups. The reason why it has changed is because I was trying different layouts while I was experimenting and learning the code and sometimes the new designs looked better than the original ones or was just more responsive. In the desktop design the block with information was not that dominant which I have changed it the and made bigger and put is on the background picture with a carousel.   Als have I centered the Main information block and added a madal with a button.  On the mobile design I have added no picture and have just made use of the info block and made sure the button was visable for the user.  I have also replaced the logo at the footer and put the links for contact and sosial media*
+**Note that the final design has changed from the original design in the mockups. The reason why it has changed.  I was trying different layouts while I was experimenting and learning the code and sometimes the new designs looked better than the original ones,  or was just more responsive. In the desktop design the block with information was not that dominant which I have changed.   Made it bigger and put is on the background picture with a carousel.   Als have I centered the Main information block and added a modal with a button.  On the mobile design I have added no picture and have just made use of the info block and made sure the button was visable for the user.  I have also replaced the logo at the footer and put the links for contact and sosial media*
 
 
 ## Features
