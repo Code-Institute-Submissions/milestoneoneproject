@@ -241,7 +241,7 @@ Testing the website page by page, checking every feature in all possible screen 
 
 See attached sheet made for testing the responsiveness for mobile to desktop
 
-Click [here](https://github.com/Lemoenskil/milestoneoneproject/blob/master/Testing/Responsivnesstest.pd) to see the list use to test the responsiveness
+Click [here](https://github.com/Lemoenskil/milestoneoneproject/blob/master/testing/responsivnesstest.pd) to see the list use to test the responsiveness
 
 ### Additional testing
 Used development tools in Google Chrome to check how the website would look in different devices. Also used it to try different style and ideas.   
